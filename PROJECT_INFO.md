@@ -3,6 +3,8 @@
 ## Description
 This project is a starter template and implementation for the ESP32 S2 mini, specifically focused on interfacing with a BME280 sensor (Temperature, Humidity, Pressure). It serves as a foundation for future ESP32 projects.
 
+**GitHub Repository:** [https://github.com/maxman12/BmE280](https://github.com/maxman12/BmE280)
+
 ## Tech Stack
 - **Hardware:** ESP32 S2 Mini
 - **Language:** C++ / Arduino Framework
